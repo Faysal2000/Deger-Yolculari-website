@@ -1,0 +1,22 @@
+# Visual Studio
+bin/
+obj/
+.vs/
+
+# Node
+node_modules/
+dist/
+
+# Sensitive files
+appsettings.json
+appsettings.*.json
+!appsettings.example.json
+*.env
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
