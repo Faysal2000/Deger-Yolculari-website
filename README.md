@@ -134,19 +134,7 @@ The backend implements **Clean Architecture** with strict separation of concerns
 
 
 
-┌──────────────────────────────────────────────┐
-│  API Layer                                   │
-│  Controllers • Middleware • Authentication   │
-├──────────────────────────────────────────────┤
-│  Application Layer                           │
-│  DTOs • Interfaces • Validators • Logic      │
-├──────────────────────────────────────────────┤
-│  Domain Layer                                │
-│  Entities • Business Rules • Value Objects   │
-├──────────────────────────────────────────────┤
-│  Infrastructure Layer                        │
-│  EF Core • Services • External Integrations  │
-└──────────────────────────────────────────────┘
+<img width="1158" height="1359" alt="Image" src="https://github.com/user-attachments/assets/15430206-67be-42eb-bea2-eaaa05d8e6d5" />
 
 
 
