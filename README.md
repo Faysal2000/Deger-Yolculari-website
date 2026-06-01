@@ -10,9 +10,7 @@ A full-stack web platform empowering a Turkish charity organization to manage fu
 [![React](https://img.shields.io/badge/React-19.0-61DAFB?logo=react&logoColor=black)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![SQL Server](https://img.shields.io/badge/SQL_Server-2022-CC2927?logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/sql-server)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-[**View Demo**](#) · [**Architecture**](ARCHITECTURE.md) · [**Security**](SECURITY.md) · [**Deployment**](DEPLOYMENT.md)
 
 </div>
 
